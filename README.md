@@ -1,0 +1,1 @@
+# ideapad-s340-iil-clover
